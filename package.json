@@ -11,7 +11,7 @@
     "dont-sniff-mimetype": "^0.1.0",
     "express": "^4.12.3",
     "express-session": "^1.11.2",
-    "forever": "^0.14.1",
+    "forever": "^4.0.3",
     "helmet": "^0.9.0",
     "mongodb": "^2.0.31",
     "serve-favicon": "^2.2.0",
